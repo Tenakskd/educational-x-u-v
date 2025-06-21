@@ -1,12 +1,12 @@
 {
-  "name": "@titaniumnetwork-dev/ultraviolet",
-  "version": "3.2.7",
+  "name": "educational-x-u-v",
+  "version": "1.0.0",
   "description": "Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!",
   "main": "lib/index.cjs",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/titaniumnetwork-dev/Ultraviolet.git"
+    "url": "git+https://github.com/tenakskd/educational-x-u-v.git"
   },
   "files": [
     "dist",
